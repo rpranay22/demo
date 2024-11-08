@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hvfvhfbhfb  fnhfnf njfnnng njbnghnbhgnb
 fbhbg  hbfhbf fhbfhb  hfhff fhvhfh
+=======
+i am two in main1
+>>>>>>> a0d2dc55a1a61b2d4933e7225271c1ec84824c2d
